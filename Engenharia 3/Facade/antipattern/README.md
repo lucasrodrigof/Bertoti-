@@ -1,1 +1,0 @@
-<h3 align="center">EXEMPLO DE ANTIPATTERN</h3>
